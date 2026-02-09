@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="00e72059-d182-436b-aa70-ba54838b76f0">
+  <producedTypes>
+    <objectType typeId="0f941529-3b48-4f9b-8e95-d839b8816624" valueTypeId="52a72576-a657-4f25-8e3d-135facac0582"/>
+  </producedTypes>
+  <name>ИнтеграцияКаркаснойКонфигурации</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интеграция каркасной конфигурации</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e5c2aa2e-b35b-4cac-a66f-5a53e22aa365"/>
+</mdclass:ExternalDataProcessor>

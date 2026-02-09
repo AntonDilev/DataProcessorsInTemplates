@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dabb23ac-a268-45bd-9f51-7798b86a3d59">
+  <producedTypes>
+    <objectType typeId="67800049-15b3-49e2-8900-33536f2e590b" valueTypeId="1dbfef53-6d0f-4b98-b6d3-46dd5fc4e2fc"/>
+  </producedTypes>
+  <name>ИнтеграцияДемоБСП</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интеграция демо БСП</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="be3d6d42-e0cf-4aa2-87a7-1d2557467cd3"/>
+</mdclass:ExternalDataProcessor>
